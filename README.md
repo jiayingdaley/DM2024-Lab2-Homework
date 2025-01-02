@@ -10,3 +10,5 @@ GitHub ID: jiayingdaley
 Kaggle name: Shrruei
 
 Kaggle private scoreboard snapshot: 
+<img width="1101" alt="image" src="https://github.com/user-attachments/assets/fb4bed29-fe64-4587-ab96-2d716a0adb91" />
+
